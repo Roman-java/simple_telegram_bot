@@ -1,2 +1,2 @@
 simple_telegram_bot
-Уxample of a simple telegram bot
+Example of a simple telegram bot
